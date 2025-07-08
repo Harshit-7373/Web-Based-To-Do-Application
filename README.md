@@ -63,4 +63,3 @@ A real-time, web-based collaborative task management app inspired by Trello. Bui
 - **Database:** MongoDB
 - **Real-Time:** Socket.IO
 - **Authentication:** JWT + bcrypt
-- **Deployment:** (Optional: Vercel/Netlify + Render/Heroku)
